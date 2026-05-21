@@ -24,7 +24,3 @@ Each file is self-contained. Compile with any standard C compiler:
 gcc -O2 -Wall "Aho-Corasick Algorithm .c" -o aho_corasick
 ./aho_corasick
 ```
-
-## License
-
-MIT — see [LICENSE](LICENSE).
